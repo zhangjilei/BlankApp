@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="blankapp-0.0.11-alpha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/build/intermediates/exploded-aar/org.blankapp/blankapp/0.0.11-alpha/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/examples/build/intermediates/exploded-aar/org.blankapp/blankapp/0.0.11-alpha/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.blankapp/blankapp/0.0.11-alpha/7090723263b866b6d2510b2292767a67658b277a/blankapp-0.0.11-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
